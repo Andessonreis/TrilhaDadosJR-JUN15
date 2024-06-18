@@ -63,4 +63,4 @@ O curso que teve o maior número de vendas foi **Introdução à Programação e
 ### Visualização Temporal
 
 A distribuição das vendas ao longo do tempo foi analisada através de gráficos. Foi observado que os maiores picos de vendas ocorreram em 01-01-2023 e 21-01-2023. Esses dias específicos mostraram uma atividade significativamente maior, possivelmente devido a promoções ou outros fatores desconhecidos.
-![Gráfico de Vendas](img/output2.png)
+![Gráfico de Vendas](img/newplot.png)
